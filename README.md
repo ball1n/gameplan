@@ -8,3 +8,5 @@ Oliver was here
 
 Kokeillaan uudestaan
  good link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://imgur.com/nJxCGFC.png
